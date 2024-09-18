@@ -1,0 +1,12 @@
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\bin\Debug\net8.0\SamplePlugin.deps.json
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\bin\Debug\net8.0\SamplePlugin.dll
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\bin\Debug\net8.0\SamplePlugin.pdb
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfo.cs
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.dll
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\refint\SamplePlugin.dll
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\SamplePlugin.pdb
+C:\Users\gkinyua\Documents\Codebase\c#\SamplePlugin\obj\Debug\net8.0\ref\SamplePlugin.dll

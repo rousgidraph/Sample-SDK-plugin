@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsPerformanceAnalyzerInternal_11.8.162.0_x64__g4ype1skzj3jy\\wpa.exe",
+      "commandLineArgs": "-nodefault -addsearchdir C:\\Users\\gkinyua\\Documents\\Codebase\\c#\\SamplePlugin\\bin\\"
+    }
+  }
+}
