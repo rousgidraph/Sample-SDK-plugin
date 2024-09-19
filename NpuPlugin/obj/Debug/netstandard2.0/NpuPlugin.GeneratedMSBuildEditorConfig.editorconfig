@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NpuPlugin
+build_property.ProjectDir = C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

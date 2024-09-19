@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLn7uRvv8uw=",
+  "success": true,
+  "projectFilePath": "C:\\EIM2Labs\\Hackathon\\NpuPlugin\\NpuPlugin\\NpuPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.performance.sdk\\1.0.14-rc1\\microsoft.performance.sdk.1.0.14-rc1.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\nuget.versioning\\5.6.0\\nuget.versioning.5.6.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\bin\Debug\netstandard2.0\NpuPlugin.deps.json
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\bin\Debug\netstandard2.0\NpuPlugin.dll
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\bin\Debug\netstandard2.0\NpuPlugin.pdb
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.csproj.AssemblyReference.cache
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.AssemblyInfoInputs.cache
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.AssemblyInfo.cs
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.csproj.CoreCompileInputs.cache
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.dll
+C:\EIM2Labs\Hackathon\NpuPlugin\NpuPlugin\obj\Debug\netstandard2.0\NpuPlugin.pdb
